@@ -25,7 +25,7 @@ public class FBGeneral extends FBGlobal {
 		obj.F11();
 		obj.F0();
 		obj.F1();
-		obj.F5();
+		obj.F55();
 		
 
 	}
@@ -69,7 +69,7 @@ public class FBGeneral extends FBGlobal {
 		driver.quit();
 	}
 
-	public void F5()
+	public void F55()
 	{
 		System.out.println("This is new change");
 	}
