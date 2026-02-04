@@ -25,6 +25,7 @@ public class FBGeneral extends FBGlobal {
 		obj.F11();
 		obj.F0();
 		obj.F1();
+		obj.F5();
 		
 
 	}
@@ -66,6 +67,11 @@ public class FBGeneral extends FBGlobal {
 	public void F1()
 	{
 		driver.quit();
+	}
+
+	public void F5()
+	{
+		System.out.println("This is new change");
 	}
 	
 	
