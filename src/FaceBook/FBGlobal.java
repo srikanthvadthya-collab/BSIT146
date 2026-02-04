@@ -9,6 +9,10 @@ public class FBGlobal extends FBUtility{
 	WebDriver driver;
 
 
+
+
+
+
 	
 	public FBGlobal(String browser) {
 		
